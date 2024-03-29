@@ -1,0 +1,425 @@
+@media (max-width: 575.98px) {
+    /* NAV PART START */
+    body{
+        overflow-x: hidden;
+    }
+
+
+	.navbar-brand img {
+		width: 56%;
+	}
+	.slick-slide img {
+		display: inline-block;
+	}
+	.ms-auto {
+	
+		background-color: rgba(0, 0, 0, 0.724);
+	}
+  /* banneer */
+  .banner-text p {
+	font-size: 22px;
+	
+}
+.banner-text h6 {
+
+	width: auto;
+	margin-left: 20px;
+	
+}
+.banner-store a h2 {
+	font-size: 9px;
+	
+}
+.banner-store a h5 {
+	font-size: 10px;
+
+}
+.banner-store a {
+	padding: 8px 6px 1px 35px;
+
+}
+.banner-store a i {
+
+	top: 12px;
+	left: 25px;
+	font-size: 24px;
+}
+ /* banner */
+ /* about */
+.a-logo{
+    display: none;
+}
+.a-p::after{
+    display: none;
+}
+.about-text::after{
+    display: none;
+}
+.about-text::before{
+    display: none;
+}
+.a-p p {
+
+	width: auto;
+	
+}
+.a-p h1 {
+	width: auto;
+
+}
+/* feed */
+.feed-text-inner {
+	width: auto !important;
+	
+}
+.feed-text::after {
+	height: 20px;
+	width: 20px;
+	bottom: 95px;
+	left: 50%;
+	
+}
+/* feed */
+.touch-two input {
+	padding: 0px 146px 176px 15px;
+    margin-top: 0;
+
+}
+.touch-one input {
+	padding: 17px 147px 17px 15px;
+	margin-right: 10px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+/* video */
+#video {
+	height: 400px;
+}
+.video {
+	text-align: center;
+	padding-top: 173px;
+}
+/* video */
+.team_icon_a i {
+font-size: 15px;
+}
+.team_ico::before {
+	display: none;
+}
+.team_ico::after {
+	display: none;
+}
+.team_icon_a::before {
+	display: none;
+}
+.team_icon_a::after {
+	display: none;
+}
+/* TEAM */
+/* FFED */
+.touch_icon_a::after {
+display: none;
+}
+.touch_icon_a::before {
+	display: none;
+	}
+	.touch_icon::after {
+		display: none;
+	}
+	.touch_icon::before {
+		display: none;
+	}
+	.s-logo::after {
+		display: none;
+		}
+		.s-logo::before {
+			display: none;
+			}
+			.s-text::before {
+			display: none;
+			}
+			.s-text::after {
+				display: none;
+				}
+				.w-logo::after {
+				display: none;
+				}
+				.w-logo::before {
+					display: none;
+					}
+					.w-text::after {
+						display: none;
+					}
+					.w-text::before {
+						display: none;
+					}
+
+
+}
+
+
+
+
+@media (min-width: 576px) and (max-width: 766.98px) {
+      /* NAV PART START */
+	  body{
+        overflow-x: hidden;
+    }
+
+
+	.navbar-brand img {
+		width: 56%;
+	}
+	.slick-slide img {
+		display: inline-block;
+	}
+	.ms-auto {
+	
+		background-color: rgba(0, 0, 0, 0.724);
+	}
+	.s-logo::after {
+	display: none;
+	}
+	.s-logo::before {
+		display: none;
+		}
+		.s-text::before {
+		display: none;
+		}
+		.s-text::after {
+			display: none;
+			}
+			.w-logo::after {
+			display: none;
+			}
+			.w-logo::before {
+				display: none;
+				}
+				.w-text::after {
+					display: none;
+				}
+				.w-text::before {
+					display: none;
+				}
+
+ /* about */
+.a-logo{
+    display: none;
+}
+.a-p::after{
+    display: none;
+}
+.about-text::after{
+    display: none;
+}
+.about-text::before{
+    display: none;
+}
+.a-p p {
+
+	width: auto;
+	
+}
+.a-p h1 {
+	width: auto;
+
+}
+/* feed */
+.feed-text-inner {
+	width: auto !important;
+	
+}
+.feed-text::after {
+	height: 20px;
+	width: 20px;
+	bottom: 95px;
+	left: 50%;
+	
+}
+/* feed */
+.touch-two input {
+	padding: 0px 146px 176px 15px;
+    margin-top: 0;
+
+}
+.touch-one input {
+	padding: 17px 147px 17px 15px;
+	margin-right: 10px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+/* video */
+#video {
+	height: 400px;
+}
+.video {
+	text-align: center;
+	padding-top: 173px;
+}
+/* video */
+.team_icon_a i {
+font-size: 15px;
+}
+.team_ico::before {
+	display: none;
+}
+.team_ico::after {
+	display: none;
+}
+.team_icon_a::before {
+	display: none;
+}
+.team_icon_a::after {
+	display: none;
+}
+/* TEAM */
+/* FFED */
+.touch_icon_a::after {
+display: none;
+}
+.touch_icon_a::before {
+	display: none;
+	}
+	.touch_icon::after {
+		display: none;
+	}
+	.touch_icon::before {
+		display: none;
+	}
+   
+}
+
+
+
+@media (min-width: 767px) and (max-width: 991.98px) {
+  /* NAV PART START */
+  body{
+	overflow-x: hidden;
+}
+
+
+.navbar-brand img {
+	width: 56%;
+}
+.slick-slide img {
+	display: inline-block;
+}
+.ms-auto {
+
+	background-color: rgba(0, 0, 0, 0.724);
+}
+.s-logo::after {
+display: none;
+}
+.s-logo::before {
+	display: none;
+	}
+	.s-text::before {
+	display: none;
+	}
+	.s-text::after {
+		display: none;
+		}
+		.w-logo::after {
+		display: none;
+		}
+		.w-logo::before {
+			display: none;
+			}
+			.w-text::after {
+				display: none;
+			}
+			.w-text::before {
+				display: none;
+			}
+
+/* about */
+.a-logo{
+display: none;
+}
+.a-p::after{
+display: none;
+}
+.about-text::after{
+display: none;
+}
+.about-text::before{
+display: none;
+}
+.a-p p {
+
+width: auto;
+
+}
+.a-p h1 {
+width: auto;
+
+}
+/* feed */
+.feed-text-inner {
+width: auto !important;
+
+}
+.feed-text::after {
+height: 20px;
+width: 20px;
+bottom: 95px;
+left: 50%;
+
+}
+/* feed */
+.touch-two input {
+padding: 0px 146px 176px 15px;
+margin-top: 0;
+
+}
+.touch-one input {
+padding: 17px 147px 17px 15px;
+margin-right: 10px;
+border-radius: 10px;
+margin-top: 10px;
+}
+
+/* video */
+#video {
+height: 400px;
+}
+.video {
+text-align: center;
+padding-top: 173px;
+}
+/* video */
+.team_icon_a i {
+font-size: 15px;
+}
+.team_ico::before {
+display: none;
+}
+.team_ico::after {
+display: none;
+}
+.team_icon_a::before {
+display: none;
+}
+.team_icon_a::after {
+display: none;
+}
+/* TEAM */
+/* FFED */
+.touch_icon_a::after {
+display: none;
+}
+.touch_icon_a::before {
+display: none;
+}
+.touch_icon::after {
+	display: none;
+}
+.touch_icon::before {
+	display: none;
+}
+
+
+    }
